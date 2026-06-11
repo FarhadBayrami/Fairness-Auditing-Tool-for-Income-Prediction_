@@ -133,14 +133,16 @@ jupyter notebook Fairness_Auditing_Income_Prediction.ipynb
 ---
 
 ## 📁 Project Structure
-📦 Fairness-Auditing-Tool-for-Income-Prediction_
-┣ 📓 Fairness_Auditing_Income_Prediction.ipynb        ← Full pipeline: data, models, fairness evaluation
-┣ 📄 Fairness and Bias Detection in ML Models.docx    ← Full project report
-┣ 📄 Fairness and Bias Detection Proposal.pdf         ← Project proposal
-┣ 📄 requirements.txt                                 ← Python dependencies
-┣ 📄 LICENSE                                          ← MIT License
-┣ 📄 CITATION.cff                                     ← How to cite this work
-┗ 📝 README.md
+
+| File | Description |
+|------|-------------|
+| `Fairness_Auditing_Income_Prediction.ipynb` | Full pipeline: data, models, fairness evaluation |
+| `Fairness and Bias Detection in ML Models.docx` | Full project report |
+| `Fairness and Bias Detection Proposal.pdf` | Project proposal |
+| `requirements.txt` | Python dependencies |
+| `LICENSE` | MIT License |
+| `CITATION.cff` | How to cite this work |
+| `README.md` | Project documentation |
 ---
 
 ## 🔮 Future Work
