@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code in your research, please cite it as below."
+authors:
+  - family-names: Bayrami
+    given-names: Farhad
+    email: farhad.bayrami@studio.unibo.it
+    affiliation: University of Bologna
+title: "Fairness Auditing Tool for Income Prediction"
+version: 1.0.0
+date-released: 2025-01-01
+url: "https://github.com/FarhadBayrami/Fairness-Auditing-Tool-for-Income-Prediction_"
+license: MIT
+keywords:
+  - fairness
+  - bias detection
+  - machine learning
+  - income prediction
+  - demographic parity
+  - Adult dataset
+  - algorithmic fairness
